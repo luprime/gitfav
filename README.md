@@ -4,6 +4,8 @@
 
 > Desafio Stage 6 da formação Explorer
 
+[🔗 Clique aqui para acesar](https://luprime.github.io/gitfav/)
+
 ## 👨🏽‍💻 Tecnologia
 
 - HTML
