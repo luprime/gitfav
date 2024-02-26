@@ -1,24 +1,25 @@
-# Desafio Gitfav
+# GitFav Challenge
 
 ![127 0 0 1_5501_index html](https://github.com/luprime/gitfav/assets/113480223/18d4d4ca-7c9f-47ac-9679-b475d92503e2)
 
-> Desafio Stage 6 da formação Explorer
+> Challenge Stage 6 from Explorer
 
-[🔗 Clique aqui para acesar](https://luprime.github.io/gitfav/)
+[🔗 Click here to access](https://luprime.github.io/gitfav/)
 
-## 👨🏽‍💻 Tecnologia
+## 👨🏽‍💻 Technology
 
 - HTML
 - CSS
 - Git e Github
 - JavaScript
 
-## 💭 O que aprendi?
+## 💭 What have I learn?
 
-Neste desafio apenas alterei alguns estilos do projeto anterior, para que ficasse menos simples, coloquei alguns icones
-que não tinham anteriormente, pórem foi muito bom para praticar sem a ajuda de alguém falando o passo a passo.
+On this challenge I just altered some styles from the last project, added some icons on the site, so it was not that simples as the last one.
+It was a really nice expirience, so I could train some coding without help from others.
 
-## 📚 Contato
+
+## 📚 Contact
 
 - 📧 - lucas.primati@hotmail.com
 - 👨🏽‍💼 - https://www.linkedin.com/in/lucas-primati/
